@@ -37,7 +37,7 @@ N/A
 
 ## Credits
 
-ehalimi, bjennings90
+ehalimi, grocha78
 
 ## License
 
